@@ -1,7 +1,5 @@
-/* for all the data on the web pagee */
 *{ 
-  font-family: "Roboto Mono", monospace;  /* all the font in the web page*/
+  font-family: "Roboto Mono", monospace; 
 }
 
-/* import the font you use, from Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
